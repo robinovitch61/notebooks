@@ -1,2 +1,2 @@
 # notebooks
-Jupyter notebooks for various projects
+Jupyter notebooks for various projects.
